@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raldan951
 - 👀 I’m interested in learning Python and Streamlit with Grok as my assistant.
-- 🌱 Building my GrokLab (a Project Laboratory geared towards budding programmers like myself usinf VSCode and a Streamlit Dashboard)
+- 🌱 Building my GrokLab (a Project Laboratory geared towards budding programmers like myself using VSCode and a Streamlit Dashboard)
 - - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at goin2narnia@mac.com
 - 😄 Pronouns: ...
