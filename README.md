@@ -4,8 +4,8 @@
 - Now with Portion Bible Reading app and ComScope Ham Radio ComPort topology viewer app
 - - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at goin2narnia@mac.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Traditional
+- ⚡ Fun fact: Facts are fun.
 
 <!---
 Raldan951/Raldan951 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
